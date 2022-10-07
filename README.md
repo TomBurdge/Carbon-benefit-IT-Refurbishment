@@ -36,6 +36,8 @@ To
 - Scope 1 & 2 emissions for your facility, preferably to SECR standards.
 - Input data on the product type of your IT products.
 - A database for new production of IT products by type.
+
+
 (Note: This last bullet point is extremely laborious to create from scratch. Fortunately, a database valid to the end of 2022 is available to access in English at: https://inrego.com/co2/ and in Swedish at: https://www.ivl.se/publikationer/publikationer/produktdatabaser-miljofordelar-med-aterbruk----klimatfordelar-med-aterbruk-av-it-produkter-samt-metod-for-databasskapande.html 
 I have not shared a copy of the database as I am currently enquiring about the terms of the license for this database.)
 
