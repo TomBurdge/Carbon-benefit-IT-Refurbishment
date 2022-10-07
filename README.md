@@ -1,6 +1,6 @@
 Returns the carbon benefit of reuse of an IT asset compared to recycling.
 
-**Introduction**
+<h1>**Introduction**</h1>
 
 This carbon benefit calculation measures the the carbon benefit of reuse with Global Resale compared to the next owner of the IT product buying new.
 “Reuse” here refers to when a product that is no longer needed by its owner (“User 1”) is taken over by a new user (“User 2”) who has a need for it, instead of it becoming waste.
@@ -16,5 +16,6 @@ The carbon benefit calculation is a counter-factual conditional statement. A cou
 The carbon benefit calculation’s counter-factional conditional statement says, ‘if you hadn’t re-used your assets through Global resale, the carbon emission, as a result, would have been X kg CO2e higher.’
 
 You can use this calculation to say, ‘By choosing reuse, we avoided X kg CO2e emissions.’
-This is not a carbon offset, and does not satisfy PAS 2060:2014. 
+
+***This is not a carbon offset***, and does not satisfy PAS 2060:2014. 
 As such, the components of this calculation  should never be used to claim a carbon offset, or any contribution to carbon neutrality or net zero, by any party.
