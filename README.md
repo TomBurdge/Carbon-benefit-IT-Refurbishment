@@ -44,3 +44,17 @@ To run this calculation with a clone of the repository, you will need:
 I have not shared a copy of the database as I am currently enquiring about the terms of the license for this database.)
 
 <h3>Assumptions and Methodology</h3>
+
+In making this calculation, we make the following assumptions:
+
+- A reused IT product is here assumed to have the same potential performance as a new product in the same category.
+- The use phase emissions are not included since the reused product is assumed to be used in the same way as a new product would have been used, and the energy use is assumed to be the same. 
+- We assume user 2 would have bought a new product, within the same category, if they had not bought the used one.
+- It is assumed that the new product, whose production has been avoided, would have been assembled in Asia.
+- We assume that the re-use of the product, sold at a lower price than new, does not result in a rebound effect. A rebound effect is where efficiency improvements through re-use of products are offset by growth in consumption and refresh rates.  
+- For components, the impact of reconditioning is assumed to be 0. The reason for this is that their processing at re-conditioning requires relatively little input and much less complicated grading and checks than notebooks or laptops.
+- Assets that are re-used include those assets whose components are re-used and harvested for another product. Accounting for waste handling of the parts of the product which Global Resale then recycles as waste material could change the calculation, although that is currently beyond the calculation’s scope.
+- Calculating the emissions of a journey from our facility is impractical to calculate, given that products are not all sold at the same time, are not always bought and sold by Global Resale, and can travel a widely varying journey. To make an indicative estimation, it is assumed that goods out of our UK facility travel the average distance of a haul from the UK. Since ‘New Production’ is such a high amount compared to the other metrics, this estimate makes a relatively small change to the result. The average distance of a journey by transport type is sourced from the UK Government’s Average length of a haul by type and weight of vehicle RF S0108. To accommodate for the indeterminacies of the estimated distance, the calculation uses the highest distance of average journeys in the last five years that the government statistics provide. Where this calculation would not be appropriate, for facilities outside of the UK, we remove the benefit of avoiding TRANSPORTp in the calculation. In Global Resale’s case, the journey travelled from reconditioning to user 2 will not be higher than transporting the avoided product from Asia to user 1.
+
+The calculation will be inaccurate or potentially misleading when these assumptions are not met. Since these assumptions are generally true, input data becomes more accurate at higher volumes.
+
