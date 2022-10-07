@@ -24,7 +24,7 @@ As such, the components of this calculation  should never be used to claim a car
 
 <h3>Getting Started</h3>
 
-The calculation uses Python. 
+*The calculation uses Python. 
 The calculation reads CSV files as inputs to return the final results.
 
 
