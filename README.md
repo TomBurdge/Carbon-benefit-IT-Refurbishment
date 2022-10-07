@@ -29,7 +29,7 @@ As such, the components of this calculation  should never be used to claim a car
 
 
 <h3>Requirements</h3>
-To 
+To run this calculation with a clone of the repository, you will need:
 
 - Python installed ony our device.
 - Pandas module installed on your device.
