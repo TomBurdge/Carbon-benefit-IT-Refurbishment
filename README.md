@@ -1,11 +1,11 @@
 Returns the carbon benefit of reuse of an IT asset compared to recycling.
 
-<h1>**Introduction**</h1>
+<h3>Introduction</h3>
 
-This carbon benefit calculation measures the the carbon benefit of reuse with Global Resale compared to the next owner of the IT product buying new.
+This carbon benefit calculation measures the the carbon benefit of reusing IT equipment compared to the next owner buying new.
 “Reuse” here refers to when a product that is no longer needed by its owner (“User 1”) is taken over by a new user (“User 2”) who has a need for it, instead of it becoming waste.
 
-Reusing is the second most desirable way to reduce our waste, right after “prevention” of production, according to the EU Waste Framework Directive (Directive 2008/98/EC).  Reuse is, therefore, better than recycling the product, which is the next most likely solution for IT Asset Disposition.
+Reusing is the second most desirable way to reduce our waste, right after “prevention” of production, according to the EU Waste Framework Directive (Directive 2008/98/EC).  Reuse is, therefore, better than recycling the product, which is the next most likely destination for IT assets at end of useful life for the first user.
 
 This carbon calculation calculates the carbon avoided by reusing assets compared to recycling. 
 The calculation provides the carbon benefit in kg CO2e, and this document provides context for what the calculation means, and the methodology and databases used to reach the figures.
