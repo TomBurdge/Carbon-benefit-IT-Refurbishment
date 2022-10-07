@@ -24,8 +24,8 @@ As such, the components of this calculation  should never be used to claim a car
 
 <h3>Getting Started</h3>
 
-- The calculation uses Python. 
-- The calculation reads CSV files as inputs to return the final results.
+The calculation uses Python. 
+The calculation reads CSV files as inputs to return the final results.
 
 
 <h3>Requirements</h3>
@@ -33,7 +33,8 @@ To run this calculation with a clone of the repository, you will need:
 
 - Python installed ony our device.
 - Pandas module installed on your device.
-- Google Maps API module installed on your device
+- Google Maps API module installed on your device.
+- A Google Maps API key.
 - Scope 1 & 2 emissions for your facility, preferably to SECR standards.
 - Input data on the product type of your IT products.
 - A database for new production of IT products by type.
