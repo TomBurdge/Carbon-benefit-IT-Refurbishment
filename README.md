@@ -1,6 +1,6 @@
 Returns the carbon benefit of reuse of an IT asset compared to recycling.
 
-#Introduction
+**Introduction**
 
 This carbon benefit calculation measures the the carbon benefit of reuse with Global Resale compared to the next owner of the IT product buying new.
 “Reuse” here refers to when a product that is no longer needed by its owner (“User 1”) is taken over by a new user (“User 2”) who has a need for it, instead of it becoming waste.
