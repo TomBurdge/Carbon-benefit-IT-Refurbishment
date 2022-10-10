@@ -35,6 +35,9 @@ There are still manual inputs, but so long as you are not calculating a massive 
 For larger IT refurbishers, this should provide a useful start-point to integrate carbon calulations into your data strategy.
 
 <h2>Getting Started</h2>
+To get started, the best place to start is to go through the Jupyter Notebook which provides a step by step through how this calculation works.
+Then, try running the code with the sample data.
+Then, have a go at running it with your own data.
 
 The calculation uses Python. 
 The calculation reads CSV files as inputs to return the final results.
@@ -51,7 +54,7 @@ To run this calculation with a clone of the repository, you will need:
 - A Google Maps API key.
 
 Data requirements:
-- Scope 1 & 2 emissions for your facility, preferably to SECR standards.
+- Scope 1 & 2 emissions for your facility, preferably to SECR standards. If you are a small refurbisher, estimates will be adequate.
 - Input data on the product type of your IT products.
 - A database for new production of IT products by type.
 
