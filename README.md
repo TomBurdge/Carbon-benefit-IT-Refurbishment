@@ -49,6 +49,7 @@ To run this calculation with a clone of the repository, you will need:
 - Pandas module installed on your device.
 - Google Maps API module installed on your device.
 - A Google Maps API key.
+
 Data requirements:
 - Scope 1 & 2 emissions for your facility, preferably to SECR standards.
 - Input data on the product type of your IT products.
