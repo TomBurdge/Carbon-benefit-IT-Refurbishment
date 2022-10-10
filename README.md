@@ -56,7 +56,7 @@ Data requirements:
 
 
 (Note: This last bullet point is extremely laborious to create from scratch. Fortunately, a database valid to the end of 2022 is available to access in English at: https://inrego.com/co2/ and in Swedish at: https://www.ivl.se/publikationer/publikationer/produktdatabaser-miljofordelar-med-aterbruk----klimatfordelar-med-aterbruk-av-it-produkter-samt-metod-for-databasskapande.html 
-I have not shared a copy of the database as I am currently enquiring about the terms of the license for this database.)
+I have not shared a copy of the database as I am currently inquiring about the terms of the license for this database.)
 
 <h2>Assumptions and Methodology</h2>
 
@@ -71,4 +71,3 @@ In making this calculation, we make the following assumptions:
 - Currently, the Google Maps API returns the distance in miles driven from the original facility to the destination. For air and sea miles, this currently remains a manual calculation that we are looking to integrate with APIs. Since ‘New Production’ is such a high amount compared to the other metrics, this estimate makes a relatively small change to the result. The average distance of a journey by transport type is sourced from the UK Government’s Average length of a haul by type and weight of vehicle RF S0108. To accommodate for the indeterminacies of the estimated distance, the calculation uses the highest distance of average journeys in the last five years that the government statistics provide. Where this calculation would not be appropriate, for facilities outside of the UK, we remove the benefit of avoiding TRANSPORTp in the calculation. Assuming the asset travels to Europe or North America from Asia, the journey travelled from reconditioning to user 2 will likely not be higher than transporting the avoided product from Asia to user 1.
 
 The calculation will be inaccurate or potentially misleading when these assumptions are not met. Since these assumptions are generally true, input data becomes more accurate at higher volumes.
-
