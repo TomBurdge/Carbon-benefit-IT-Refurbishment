@@ -23,11 +23,16 @@ You can use this calculation to say, ‘By choosing reuse, we avoided X kg CO2e 
 As such, the components of this calculation  should never be used to claim a carbon offset, or any contribution to carbon neutrality or net zero, by any party.
 
 <h3>Who is this for?</h3>
+This project is for IT Refurbishers, of all sizes, who wish to quantify the environmental benefit they achieve.
 IT Refurbishing provides a environmental benefit, but it is often difficult to quantify this benefit for stakeholders.
 In the age of sustainability reports, activist investing, and the climate crisis, it is important that refurbishers can effectively communicate their operations' environmental benefits (and costs).
 
 As such, we have decided to share a method to calculate the carbon benefit of refurbishing.
 This is a *significantly simplified* version of a carbon calculation that we provide to customers at Global Resale. Global Resale is a large IT Refurbisher and Microsoft Authorized Refurbisher.
+
+The calculation, in the form availabe in this project, will work best for small to medium sized Refurbishers.
+There are still manual inputs, but so long as you are not calculating a massive number of pickups and volume, this will be usable.
+For larger IT refurbishers, this should provide a useful start-point to integrate carbon calulations into your data strategy.
 
 <h2>Getting Started</h2>
 
