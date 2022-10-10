@@ -2,7 +2,7 @@
 Returns the carbon benefit of reuse of an IT asset compared to recycling.
 
 
-<h3>Introduction</h3>
+<h2>Introduction</h2>
 
 This carbon benefit calculation measures the the **carbon benefit of reusing IT equipment compared to the next owner buying new.**
 “Reuse” here refers to when a product that is no longer needed by its owner (“User 1”) is taken over by a new user (“User 2”) who has a need for it, instead of it becoming waste.
@@ -22,10 +22,19 @@ You can use this calculation to say, ‘By choosing reuse, we avoided X kg CO2e 
 ***This is not a carbon offset***, and does not satisfy PAS 2060:2014. 
 As such, the components of this calculation  should never be used to claim a carbon offset, or any contribution to carbon neutrality or net zero, by any party.
 
-<h3>Getting Started</h3>
+<h3>Who is this for?</h3>
+IT Refurbishing provides a environmental benefit, but it is often difficult to quantify this benefit for stakeholders.
+In the age of sustainability reports, activist investing, and the climate crisis, it is important that refurbishers can effectively communicate their operations' environmental benefits (and costs).
+
+As such, we have decided to share a method to calculate the carbon benefit of refurbishing.
+This is a *significantly simplified* version of a carbon calculation that we provide to customers at Global Resale. Global Resale is a large IT Refurbisher and Microsoft Authorized Refurbisher.
+
+<h2>Getting Started</h2>
 
 The calculation uses Python. 
 The calculation reads CSV files as inputs to return the final results.
+
+At some points in the main file's code, there are empty variables, to which you should assign your own data (outlined in requirements).
 
 
 <h3>Requirements</h3>
@@ -35,6 +44,7 @@ To run this calculation with a clone of the repository, you will need:
 - Pandas module installed on your device.
 - Google Maps API module installed on your device.
 - A Google Maps API key.
+Data requirements:
 - Scope 1 & 2 emissions for your facility, preferably to SECR standards.
 - Input data on the product type of your IT products.
 - A database for new production of IT products by type.
@@ -43,7 +53,7 @@ To run this calculation with a clone of the repository, you will need:
 (Note: This last bullet point is extremely laborious to create from scratch. Fortunately, a database valid to the end of 2022 is available to access in English at: https://inrego.com/co2/ and in Swedish at: https://www.ivl.se/publikationer/publikationer/produktdatabaser-miljofordelar-med-aterbruk----klimatfordelar-med-aterbruk-av-it-produkter-samt-metod-for-databasskapande.html 
 I have not shared a copy of the database as I am currently enquiring about the terms of the license for this database.)
 
-<h3>Assumptions and Methodology</h3>
+<h2>Assumptions and Methodology</h2>
 
 In making this calculation, we make the following assumptions:
 
