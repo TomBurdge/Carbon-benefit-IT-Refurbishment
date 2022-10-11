@@ -1,0 +1,18 @@
+﻿Transport Type,Activity,Type,Unit,kg CO2e of CO2 per tonne km
+Van Diesel,Van,Average (up to 3.5 tonnes),tonne.km,0.57405
+Van Petrol,Van,Average (up to 3.5 tonnes),tonne.km,0.75145
+Van Compressed Natural Gas (GNG,Van,Average (up to 3.5 tonnes),tonne.km,0.58693
+LPG/ Autogas,Van,Average (up to 3.5 tonnes),tonne.km,0.64871
+Battery Electric Vehicle,Van,Average (up to 3.5 tonnes),tonne.km,0.24866
+Rigid Truck Diesel,HGV (all diesel),All rigids,tonne.km,0.21083
+Artic Diesel,HGV (all diesel),All artics,tonne.km,0.08009
+HGV Unspecified Type Diesel,HGV (all diesel),All HGVs,tonne.km,0.08009
+Air Freight Domestic,Freight flights,"Domestic, to/from UK",tonne.km,4.46949
+Air Freight Short Hall,Freight flights,"Short-haul, to/from UK",tonne.km,2.2908
+Air Freight Long Hall,Freight flights,"Long-haul, to/from UK",tonne.km,1.01381
+Air Freight Internatoinal to from non UK,Freight flights,"International, to/from non-UK",tonne.km,1.01381
+Rail Freight,Rail,Freight train,tonne.km,0.02749
+Cargo ship,Cargo ship,Container ship Average,tonne.km,0.01592
+Cargo ship,Cargo ship,Vehicle transport Average,tonne.km,0.03805
+Cargo ship,Cargo ship,RoRo-Ferry ,tonne.km,0.05095
+Cargo ship,Cargo ship,Large RoPax ferry Average,tonne.km,0.3715

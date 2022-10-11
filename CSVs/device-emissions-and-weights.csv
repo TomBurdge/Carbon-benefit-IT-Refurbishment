@@ -1,0 +1,44 @@
+﻿Asset Type,New Production,Transport from new production,Waste handling,Transport to waste handling,Weight (kg)
+Notebook (average all sub categories),280,1.2,1.6,0.1,1.6
+Notebook: Screen below 14 inch,250,1.1,1.5,0.1,1.4
+Notebook: Screen 14+ inch,300,1.5,1.6,0.1,2.1
+Notebook: Hybrid,280,9.86,1.6,0.1,1.2
+AIO  (average all sub categories) (All-in-one desktop),460,4.4,10,0.4,8.4
+AIO: Screen below 24 inch,410,3.8,7.3,0.3,7
+AIO: Screen 24+ inch,500,5.1,14,0.5,9.8
+Desktop (average all sub categories),460,4.3,9.1,0.4,8.2
+Desktop: USDT (Ultra Small DeskTop),290,1.6,3.4,0.1,2.4
+Desktop: SFF (Small Form Factor),370,3.6,8.7,0.3,6.7
+Desktop: Tower,730,7.7,15,0.7,15
+Monitor (average all sub categories),510,5.6,8.4,0.5,11
+Monitor: Screen below 33 inch,430,3.6,6.4,0.3,6.6
+Monitor: Screen 33+ inch,600,7.5,10,0.7,15
+Printer: Desk,170,12,0,1.2,26
+Server,2579,13,9.12,1.2,26
+Handheld (average all sub categories),97,0.7,0.7,0,0.4
+Handheld: Tablet (average all sizes),117,0.7,0.85,0,0.5
+Handheld: Tablet-big,140,0.8,1,0,0.7
+Handheld: Smartphone,55,0.5,0.5,0,0.2
+Handheld: Tablet-Small,94,0.6,0.7,0,0.3
+Projectors: mid size,20,1.4,0,0.1,2
+Network equipment (average all sub categories),330,6.8,2.6,0.7,14
+Network equpiment: Small,9,0.7,0.1,0,0.5
+Network equpiment: Rack mounted (blade),200,3.2,1.6,0.3,5.9
+Network equpiment: Rack mounted (large),780,17,6.3,1.7,35
+Components (average all sub categories),22,0.1,0.2,0,0.2
+Components: SSD,93,0,0.7,0,0.1
+Components: HDD,70,0.4,0.6,0,0.8
+Components: RAM memory,5,0,0,0,0
+Components: Processor,50,0,0.4,0,0
+Components: Laptop battery,8,0.2,0.1,0,0.3
+Components: Laptop screen,60,0.1,0.5,0,0.1
+Components: Tablet screen,32,0.1,0.3,0,0.2
+Components: Smartphone screen,14,0,0.1,0,0.1
+Components: Keyboard,3,0.4,0,0,0.8
+"Components: Power adaptor, laptop",3,0.1,0,0,0.2
+Components: Docking station,8,0.4,0.1,0,0.8
+Components: Network card,2,0.1,0,0,0.2
+Components: Fan,0,0,0,0,0
+Components: DVD,3,0.1,0,0,0.2
+Components: Mouse pad,0,0.1,0,0,0.1
+Components: Smartphone/tablet charger,1,0.1,0,0,0.1
