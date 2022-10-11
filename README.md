@@ -1,5 +1,5 @@
 <h1>This project is currently in development.</h1>
-Returns the carbon benefit of reuse of an IT asset compared to recycling.
+This project provides a guide to calculating the carbon benefit of reuse of an IT asset compared to recycling.
 
 
 <h2>Introduction</h2>
