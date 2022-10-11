@@ -48,7 +48,7 @@ At some points in the main file's code, there are empty variables, to which you 
 <h3>Requirements</h3>
 To run this calculation with a clone of the repository, you will need:
 
-- Python installed ony our device.
+- Python installed on your device.
 - Pandas module installed on your device.
 - Google Maps API module installed on your device.
 - A Google Maps API key.
