@@ -2,7 +2,7 @@
 This project provides a guide to calculating the carbon benefit of reuse of an IT asset compared to recycling.
 
 Start by reading through this read me, then go through the Start Here Jupyter Notebook.
-At this point, you will have a prelmiinary understanding of the calculation. 
+At this point, you will have a preliminary understanding of the calculation. 
 Then you can start playing around with the 'Playground' Jupyter Notebook.
 
 <h2>Introduction</h2>
