@@ -3,7 +3,7 @@ This project provides a guide to calculating the carbon benefit of reuse of an I
 
 Start by reading through this read me, then go through the Start Here Jupyter Notebook.
 At this point, you will have a preliminary understanding of the calculation. 
-Then you can start playing around with the 'Playground' Jupyter Notebook.
+Then you can take a look at the 'Transformation' Jupyter Notebook.
 
 <h2>Introduction</h2>
 
