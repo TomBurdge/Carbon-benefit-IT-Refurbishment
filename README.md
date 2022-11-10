@@ -1,8 +1,8 @@
 <h1>This project provides a guide to calculating the carbon benefit of reuse of an IT asset compared to recycling.</h1>
 
-Start by reading through this read me, then go through the Start Here Jupyter Notebook.
-At this point, you will have a preliminary understanding of the calculation. 
-Then you can take a look at the 'boavizta-analysis' Jupyter Notebook.
+Start by reading through this Read Me, then go through the Start Here Jupyter Notebook.
+At this point, you will have a preliminary understanding of the calculation.<br><br>
+The second notebook, Boavizta-Data-Transformation, transforms a public database for the calculation. If you are interested or wish to scrutinise and improve the calculation, please take a look and I would love to hear your thoughts. The third notebook provides a brief guide to performing the calculation for your own organisation. Please make sure you read the 'Start-Here' notebook before moving to the third, as you will need to know the components of the calculation before you perform it.
 
 <h2>Introduction</h2>
 
