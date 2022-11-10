@@ -1,4 +1,4 @@
-This project provides a guide to calculating the carbon benefit of reuse of an IT asset compared to recycling.
+<h1>This project provides a guide to calculating the carbon benefit of reuse of an IT asset compared to recycling.</h1>
 
 Start by reading through this read me, then go through the Start Here Jupyter Notebook.
 At this point, you will have a preliminary understanding of the calculation. 
