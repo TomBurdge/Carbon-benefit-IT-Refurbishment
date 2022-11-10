@@ -1,4 +1,3 @@
-<h1>This project is currently in development.</h1>
 This project provides a guide to calculating the carbon benefit of reuse of an IT asset compared to recycling.
 
 Start by reading through this read me, then go through the Start Here Jupyter Notebook.
