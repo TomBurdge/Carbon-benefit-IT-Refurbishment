@@ -61,7 +61,8 @@ Data requirements:
 
 <h2>Assumptions and Methodology</h2>
 
-In making this calculation, we make the following assumptions:
+In making this calculation, we make the following assumptions.<br>
+When sharing these figures, it is important to share the assumptions too:
 
 - A reused IT product is here assumed to have the same potential performance as a new product in the same category.
 - The use phase emissions are not included since the reused product is assumed to be used in the same way as a new product would have been used, and the energy use is assumed to be the same. 
