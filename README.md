@@ -78,3 +78,4 @@ The calculation will be inaccurate or potentially misleading when these assumpti
 
 The methodology for this calculation originates in resarch conducted by the IVL. 
 In effect, this is a code implementation of the methodology with a greater focus on its relation to the regulations and standards at the time (but constantly changing - please research the latest standards), and a guide to practical implementation.
+For the research, I highly recommend: https://www.ivl.se/download/18.4c0101451756082fbad193d/1603899258637/B2372E.pdf
