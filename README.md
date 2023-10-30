@@ -18,7 +18,7 @@ The calculation provides the carbon benefit in kg CO2e.
 We **assume** that User 2, who purchases the used asset, would have bought new if they had not bought a used product. We can then calculate the carbon savings of re-use.
 
 The carbon benefit calculation is a counter-factual conditional statement. A counterfactual conditional statement makes a conditional claim about something that did not happen – ‘if I had not gone on a run at 9:00 a.m., my heartbeat would have been lower at 9:30 a.m.’ 
-The carbon benefit calculation’s counter-factional conditional statement says, ‘if you hadn’t re-used your assets through Global resale, the carbon emission, as a result, would have been X kg CO2e higher.’
+The carbon benefit calculation’s counter-factional conditional statement says, ‘if you hadn’t re-used your assets, the carbon emission, as a result, would have been X kg CO2e higher.’
 
 You can use this calculation to say, ‘By choosing reuse, we avoided X kg CO2e emissions.’
 
@@ -31,7 +31,7 @@ IT Refurbishing provides a environmental benefit, but it is often difficult to q
 In the age of sustainability reports, activist investing, and the climate crisis, it is important that refurbishers can effectively communicate their operations' environmental benefits (and costs).
 
 As such, we have decided to share a method to calculate the carbon benefit of refurbishing.
-This is a *significantly simplified* version of a carbon calculation that we provide to customers at Global Resale. Global Resale is a large IT Refurbisher and Microsoft Authorized Refurbisher.
+This is a *significantly simplified* version of a carbon calculation that is used in industry.
 
 The calculation, in the form availabe in this project, will work best for small to medium sized Refurbishers.
 There are still manual inputs, but so long as you are not calculating a massive number of pickups and volume, this will be usable.
