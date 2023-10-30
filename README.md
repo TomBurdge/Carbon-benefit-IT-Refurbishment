@@ -75,3 +75,6 @@ When sharing these figures, it is important to share the assumptions too:
 - A reused IT product is here assumed to have the same potential performance as a new product in the same category. This includes use span and energy efficiency.
 
 The calculation will be inaccurate or potentially misleading when these assumptions are not met. Since these assumptions are generally true, input data becomes more accurate at higher volumes.
+
+The methodology for this calculation originates in resarch conducted by the IVL. 
+In effect, this is a code implementation of the methodology with a greater focus on its relation to the regulations and standards at the time (but constantly changing - please research the latest standards), and a guide to practical implementation.
